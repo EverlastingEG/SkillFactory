@@ -71,6 +71,7 @@ def restart():
     result_label.grid_forget()
     restart_btn.grid_forget()
     x = "Crosses"
+    return
 
 
 root = Tk()
